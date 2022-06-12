@@ -2,7 +2,8 @@
 body {background-color: blanchedalmond;}
 /* Make the header and footer a different color from the background */
 header {
-    color:black;
+    color:firebrick;
+    text-decoration: underline overline;
 }
 footer {
     color:black;
@@ -17,10 +18,10 @@ p {
     font-style: italic;
 }
 /* Put a border around your image */
-#borderimg {
+img {
     border-style: double;
-    border-width: 5px;
-    border-color: firebrick;
+    border-width: thick;
+    border-color: navy;
 } 
 /* Change the font-family of your list */
 ul {
